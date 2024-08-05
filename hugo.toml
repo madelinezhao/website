@@ -1,0 +1,5 @@
+baseURL = 'https://madeline-zhao.com/'
+languageCode = 'en-us'
+title = 'Madeline Site'
+
+theme = 'lotusdocs'
